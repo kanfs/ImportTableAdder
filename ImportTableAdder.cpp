@@ -1,4 +1,4 @@
-﻿/* UESTC - 方盛 - 2023.3.16 */
+﻿/* UESTC - kanfs - 2023.3.16 */
 #define _CRT_SECURE_NO_WARNINGS
 #include<Windows.h>
 #include<winnt.h>
